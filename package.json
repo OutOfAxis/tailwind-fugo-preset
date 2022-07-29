@@ -1,0 +1,19 @@
+{
+  "name": "@outofaxis/tailwind-fugo-preset",
+  "version": "1.0.0",
+  "description": "Preset for Tailwind CSS with Fugo theme",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "tailwindcss": "^3"
+  },
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
