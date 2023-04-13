@@ -197,6 +197,14 @@ module.exports = {
       width: {
         "fit-content": "fit-content",
       },
+      boxShadow: {
+        "sm": "0px 1px 5px rgba(35, 66, 192, 0.08)",
+        DEFAULT: "-3px -3px 10px rgba(94, 116, 206, 0.06), 2px 6px 16px rgba(106, 122, 179, 0.06)",
+        "md": "-4px -6px 24px rgba(83, 98, 162, 0.05), 6px 12px 20px rgba(48, 79, 206, 0.08)",
+        "lg": "-6px -4px 24px rgba(93, 111, 174, 0.08), 8px 12px 32px rgba(108, 121, 172, 0.1)",
+        "xl": "-8px -16px 28px rgba(141, 155, 226, 0.08), 12px 16px 36px 4px rgba(107, 121, 174, 0.2)",
+        "2xl": "-28px -28px 36px rgba(74, 93, 168, 0.06), 28px 28px 64px -1px rgba(70, 87, 157, 0.16)",
+      },
     },
   },
   plugins: [require("@tailwindcss/aspect-ratio")],
