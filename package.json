@@ -1,6 +1,6 @@
 {
   "name": "@outofaxis/tailwind-fugo-preset",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Preset for Tailwind CSS with Fugo theme",
   "main": "index.js",
   "files": [
