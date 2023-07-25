@@ -180,7 +180,7 @@ module.exports = {
         "30px": "30px",
       },
       borderWidth: {
-        DEFAULT: "1.5px",
+        DEFAULT: "1px",
       },
       backgroundSize: {
         "100-100": "100% 100%",
