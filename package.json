@@ -1,6 +1,6 @@
 {
   "name": "@outofaxis/tailwind-fugo-preset",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Preset for Tailwind CSS with Fugo theme",
   "main": "index.js",
   "files": [
@@ -11,9 +11,9 @@
     "tailwindcss": "^3"
   },
   "dependencies": {
-    "@tailwindcss/aspect-ratio": "^0.4.0"
+    "@tailwindcss/aspect-ratio": "^0.4.2"
   },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^3.2.5"
   }
 }
